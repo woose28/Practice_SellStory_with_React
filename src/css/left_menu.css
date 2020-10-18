@@ -1,0 +1,32 @@
+.body {
+  margin-top : 20px;
+}
+
+.hr {
+  height : 2.5px;
+  background-color : black;
+}
+
+.title_font {
+  font-family : 'GmarketBold';
+  font-size : 15px
+}
+
+.nav_link {
+  text-decoration : none
+}
+
+.nav_list {
+  text-decoration : none;
+
+}
+
+.nav_list ul {
+  display : none;
+}
+  display : none;
+.nav_list_expanded {
+  ul {
+    display : block;
+  }
+}

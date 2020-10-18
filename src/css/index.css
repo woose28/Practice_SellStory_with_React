@@ -1,0 +1,27 @@
+@font-face {
+  font-family : 'GmarketBold';
+  src : url(../fonts/GmarketSansTTFBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family : 'GmarketLight';
+  src : url(../fonts/GmarketSansTTFLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family : 'GmarketMedium';
+  src : url(../fonts/GmarketSansTTFMedium.ttf) format('truetype');
+
+}
+.MuiTab-wrapper {
+  text-align: "left"
+}
+
+.step_under_line {
+  height : 1px;
+  background-color : gray;
+}
+
+.MuiInputBase-root WithStyles(ForwardRef(InputBase))-root-12 makeStyles-input_lineOne-11 MuiInputBase-fullWidth {
+  display : "inline-block"
+}
